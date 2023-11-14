@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:20:30 +0530] "GET /Hospital_System_/index.jsp HTTP/1.1" 500 2752 http-bio-8080-exec-2 3497
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:20:31 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:28:18 +0530] "GET /Hospital_System_/index.jsp HTTP/1.1" 200 9533 http-bio-8080-exec-2 2735
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:28:19 +0530] "GET /Hospital_System_/img/img3.jpg HTTP/1.1" 304 - http-bio-8080-exec-3 8
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:28:19 +0530] "GET /Hospital_System_/img/img5.jpg HTTP/1.1" 304 - http-bio-8080-exec-4 10
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:28:19 +0530] "GET /Hospital_System_/img/doct.jpg HTTP/1.1" 304 - http-bio-8080-exec-1 13
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:28:19 +0530] "GET /Hospital_System_/img/doc2.jpg HTTP/1.1" 304 - http-bio-8080-exec-7 9
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:28:19 +0530] "GET /Hospital_System_/img/doc1.jpg HTTP/1.1" 304 - http-bio-8080-exec-6 17
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:28:19 +0530] "GET /Hospital_System_/img/img6.jpg HTTP/1.1" 304 - http-bio-8080-exec-5 42
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:28:19 +0530] "GET /Hospital_System_/img/doc3.jpg HTTP/1.1" 304 - http-bio-8080-exec-5 7
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:28:19 +0530] "GET /Hospital_System_/img/doc4.jpg HTTP/1.1" 304 - http-bio-8080-exec-5 8
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:28:44 +0530] "GET /Hospital_System_/admin_login.jsp HTTP/1.1" 200 4687 http-bio-8080-exec-7 443
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:28:47 +0530] "GET /Hospital_System_/doctor_login.jsp HTTP/1.1" 200 4717 http-bio-8080-exec-3 413
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:28:53 +0530] "GET /Hospital_System_/user_login.jsp HTTP/1.1" 200 4697 http-bio-8080-exec-3 306
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:29:01 +0530] "GET /Hospital_System_/signup.jsp HTTP/1.1" 200 5008 http-bio-8080-exec-8 1945
+0:0:0:0:0:0:0:1 - - [18/Aug/2022:14:29:07 +0530] "GET /Hospital_System_/index.jsp HTTP/1.1" 200 9533 http-bio-8080-exec-1 476
